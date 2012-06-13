@@ -12,9 +12,13 @@ This project has been started by interns from Leeds University with the initial 
 The trunk of the application software will be formed from the existing C++ code-base, where it will be ported from MFC to wxwidgets and OpenGL.
 
 The application software is partitioned into the following categories:
+
 ./brix-tools/iab - the Component Integration-based Application builder
+
 ./brix-tools/common - shared code used in iAB and plugins.
+
 ./brix-tools/plugins/igb - the GUI builder plugin tool.
+
 ./brix-tools/plugins/idb - the database management plugin tool.
 
 
