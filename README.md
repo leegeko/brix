@@ -5,7 +5,7 @@ Summary
 brix software component integration tools implemented with OpenGL
 
 
-This project is for developing a super-fast cross platform graphical software development environment for generating and navigating software for the brix environment (www.inx-systems.net).
+This project is for developing a super-fast cross-platform graphical software development environment for generating and navigating software for the brix environment (www.inx-systems.net). The aim of the project is to provide an unencombered  development environment that can be edited at least as quickly as a text-based development. 
 
 This project has been started by interns from Leeds University with the initial contribution of prototype software for implementing MDI with OpenGL windows and rendering key graphical features of the function-block-based brix development environment. This prototype software is contained in ./main/prototypes.
 
